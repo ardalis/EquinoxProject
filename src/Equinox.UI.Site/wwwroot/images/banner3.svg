@@ -1,15 +1,1 @@
-<svg width="1140" height="360" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style>.cls-1{fill:#7fba00;}.cls-2{fill:#fff;}</style>
- </defs>
- <title>banner3b</title>
- <g>
-  <title>background</title>
-  <rect x="-1" y="-1" width="1522.038415" height="482.012131" id="canvas_background" fill="none"/>
- </g>
- <g>
-  <title>Layer 1</title>
-  <path stroke="null" class="cls-1" d="m1,0l1140,0l0,360.666516l-1140,0l0,-360.666516z" id="svg_1"/>
-  <text fill="#ffffff" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="190.166618" y="124.666763" id="svg_3" font-size="52" font-family="Arvo, sans-serif" text-anchor="start" xml:space="preserve">DDD, CQRS and Event Sourcing</text>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1140" height="360"><defs><style>.cls-1{fill:#7fba00}</style></defs><title>banner3b</title><g><title>background</title><rect id="canvas_background" width="1522.038" height="482.012" x="-1" y="-1" fill="none"/></g><g><title>Layer 1</title><path id="svg_1" stroke="null" d="m1,0l1140,0l0,360.666516l-1140,0l0,-360.666516z" class="cls-1"/><text id="svg_3" x="190.167" y="124.667" fill="#fff" fill-opacity="null" stroke="null" stroke-opacity="null" stroke-width="0" font-family="Arvo, sans-serif" font-size="52" text-anchor="start" xml:space="preserve">DDD, CQRS and Event Sourcing</text></g></svg>
